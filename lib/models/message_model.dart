@@ -28,7 +28,7 @@ final User james =
 final User john = User(id: 3, name: 'John', imageUrl: 'assets/images/john.jpg');
 final User olivia =
     User(id: 4, name: 'Olivia', imageUrl: 'assets/images/olivia.jpg');
-final User sam = User(id: 5, name: 'Sam', imageUrl: 'assets/images/sam.jpg');
+final User sam = User(id: 5, name: 'Laxmi G', imageUrl: 'assets/images/sam.jpg');
 final User sophia =
     User(id: 6, name: 'Sophia', imageUrl: 'assets/images/sophia.jpg');
 final User steven =
